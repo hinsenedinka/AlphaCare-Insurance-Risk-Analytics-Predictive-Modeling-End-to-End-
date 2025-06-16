@@ -1,5 +1,4 @@
 .vscode/
 /_pycache_/
 data/
-*.csv
 !data/**/*.dvc
