@@ -1,4 +1,4 @@
 .vscode/
 __pycache__/
-data/
-!data/**/*.dvc #dont ignore dvc files
+data/raw/MachineLearningRating_v3.txt
+data/processed/processed_insurance_data.csv
