@@ -2,3 +2,4 @@
 __pycache__/
 data/raw/MachineLearningRating_v3.txt
 data/processed/processed_insurance_data.csv
+data\processed\cleaned_insurance_data.csv
